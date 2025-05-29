@@ -36,6 +36,8 @@
   </dependencies>
 
   <build>
+    <finalName>myapp</finalName> <!-- WAR will be named myapp.war -->
+
     <plugins>
       <!-- Compiler Plugin -->
       <plugin>
