@@ -34,8 +34,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-
-         
+     
   <build>
     <finalName>myapp</finalName> <!-- WAR will be named myapp.war -->
 
